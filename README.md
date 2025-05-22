@@ -147,3 +147,7 @@ async function fetchChatStream(messages) {
 ### LangGraph Integration
 
 The API leverages the LangGraph library to create complex workflows with multiple stages and conditional routing.
+
+### Run UI for test
+
+streamlit run any_code_ui.py
