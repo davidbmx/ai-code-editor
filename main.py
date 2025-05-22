@@ -1,5 +1,5 @@
 import streamlit as st
-from test import app
+from any_code_graph import app
 import json
 
 config = {
